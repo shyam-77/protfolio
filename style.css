@@ -1,0 +1,146 @@
+body
+{
+    background-image:url("https://wallpaperxyz.com/wp-content/uploads/Technology-Wallpapers-Full-HD-Free-Download-Wallpaperxyz.com-23.jpg");
+}
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    color:yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#head a
+{
+    padding: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: skyblue;
+    font-size: 25px;
+}
+#head a:hover
+{
+    color: red;
+}
+.pic img    
+{ 
+    margin-left: 8px;
+    margin-top: 150px;
+    border-radius: 50%;
+}
+.name
+{
+    font-size: 50px;
+    font-family:Algerian;
+    color: aliceblue;
+}
+.prof
+{
+    font-size: 30px;
+    font-family: chiller;
+    color: aliceblue;
+}
+#HOME a
+{
+    padding: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: skyblue;
+    font-size: 20px;
+}
+footer
+{
+    color: beige;
+}
+#HOME a:hover
+{
+    color: red;
+}
+.qu a
+{
+    padding: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: skyblue;
+    font-size: 20px;
+}
+.qu a:hover
+{
+    color: coral;
+}
+h4
+{
+    color: darkgoldenrod;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+pre
+{
+    font-size: 25px;
+    color: beige;
+}
+h3
+{
+    color:coral;
+}
+.table
+{
+    text-align: center;
+    color: aliceblue;
+    font-size: 32px;
+}
+h2
+{
+    color: red;
+}
+* box {box-sizing: border-box;}
+.skills {
+
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+p{
+    color: orange;
+}
+.container 
+{
+    width: 80%;
+    background-color: #ddd;
+  }
+.webTechnology{width: 70%; background-color:red;}
+.C {width: 50%; background-color: purple;}
+.Python {width: 40%; background-color: brown;}
+.pr a
+{
+    padding: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: skyblue;
+    font-size: 20px;
+}
+.pr a:hover
+{
+    color: coral;
+}
+.co a
+{
+    padding: 40px;
+    margin-bottom: 20px;
+    text-decoration: none;
+    color: skyblue;
+    font-size: 20px;
+}
+.co a:hover
+{
+    color: coral;
+}
+.sms a
+{
+    text-decoration:none;
+    font-size: 30px;
+    color: green;
+}
+.sms a:hover
+{
+    color: red;
+}
